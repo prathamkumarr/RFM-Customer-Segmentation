@@ -1,0 +1,50 @@
+"country","segment","customer_count"
+"Belgium","Champions",12
+"Belgium","Promising",3
+"Belgium","Potential Loyalists",3
+"Belgium","About To Sleep",3
+"Belgium","Needs Attention",2
+"Belgium","Lost",2
+"Belgium","Loyal Customers",2
+"Belgium","At Risk",2
+"France","Champions",33
+"France","Promising",18
+"France","Potential Loyalists",12
+"France","Needs Attention",9
+"France","About To Sleep",6
+"France","Lost",5
+"France","New Customers",5
+"France","At Risk",3
+"France","Loyal Customers",3
+"Germany","Champions",31
+"Germany","Potential Loyalists",21
+"Germany","Promising",15
+"Germany","Needs Attention",11
+"Germany","Loyal Customers",8
+"Germany","Lost",6
+"Germany","Hibernating",5
+"Germany","New Customers",4
+"Germany","About To Sleep",3
+"Germany","Cant Lose Them",2
+"Germany","At Risk",1
+"Spain","Potential Loyalists",9
+"Spain","Champions",8
+"Spain","Promising",5
+"Spain","Loyal Customers",4
+"Spain","Needs Attention",3
+"Spain","Lost",2
+"Spain","Hibernating",2
+"Spain","New Customers",2
+"Spain","At Risk",2
+"Spain","About To Sleep",1
+"United Kingdom","Champions",1337
+"United Kingdom","Lost",717
+"United Kingdom","Potential Loyalists",636
+"United Kingdom","Promising",576
+"United Kingdom","Needs Attention",543
+"United Kingdom","Loyal Customers",480
+"United Kingdom","At Risk",291
+"United Kingdom","About To Sleep",278
+"United Kingdom","Cant Lose Them",223
+"United Kingdom","New Customers",146
+"United Kingdom","Hibernating",107

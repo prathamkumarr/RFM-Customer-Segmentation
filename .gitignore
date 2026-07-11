@@ -1,0 +1,21 @@
+cat > .gitignore << 'EOF'
+# Secrets
+.env
+
+# Large data files
+online_retail_clean.csv
+RFM_Scored.csv
+
+# All root-level CSVs, but keep the ones in data/
+/*.csv
+
+# System / editor junk
+.DS_Store
+**/.DS_Store
+__pycache__/
+.ipynb_checkpoints/
+
+# Tableau backup files
+*.twbr
+*.~*.twbr
+EOF
