@@ -165,4 +165,4 @@ RFM-Customer-Segmentation/
 
 **Pratham Kumar**
 - GitHub: [@prathamkumarr](https://github.com/prathamkumarr)
-- Tableau Public: [pratham kumar][https://public.tableau.com/app/profile/pratham.kumar5320]
+- Tableau Public: [pratham.kumar5320](https://public.tableau.com/app/profile/pratham.kumar5320)
