@@ -2,9 +2,7 @@
 
 An end-to-end customer segmentation project that transforms 1M+ raw e-commerce transactions into 11 actionable customer segments using RFM (Recency, Frequency, Monetary) analysis — built across a four-stage pipeline: **Python → PostgreSQL → Excel → Tableau**, with AI-generated marketing recommendations per segment.
 
-**Live Dashboards:**
--  [Segment Overview — Tableau Public](https://public.tableau.com/app/profile/pratham.kumar5320/viz/RFM_Analyzer/SegmentOverview?publish=yes)
--  [Customer Deep-Dive — Tableau Public](https://public.tableau.com/app/profile/pratham.kumar5320/viz/RFM_Analyzer/SegmentOverview?publish=yes)
+**Live Dashboards:** [View on Tableau Public](https://public.tableau.com/app/profile/pratham.kumar5320/viz/RFM_Analyzer/SegmentOverview?publish=yes)
 
 ---
 
@@ -167,4 +165,4 @@ RFM-Customer-Segmentation/
 
 **Pratham Kumar**
 - GitHub: [@prathamkumarr](https://github.com/prathamkumarr)
-- Tableau Public: [https://public.tableau.com/app/profile/pratham.kumar5320]
+- Tableau Public: [pratham kumar][https://public.tableau.com/app/profile/pratham.kumar5320]
