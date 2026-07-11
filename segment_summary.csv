@@ -1,0 +1,12 @@
+"segment_name","customer_count","avg_recency","avg_frequency","avg_monetary","revenue_share"
+"Champions",1462,20.4,15.6,8058.32,68.97
+"Loyal Customers",516,103.3,8.5,3280.76,9.91
+"Cant Lose Them",238,344.7,8.9,3943.08,5.49
+"Potential Loyalists",711,26.3,2.6,1091.82,4.54
+"Promising",655,109.8,2.1,832.07,3.19
+"Needs Attention",600,310.0,2.3,883.37,3.10
+"At Risk",307,445.7,3.8,911.03,1.64
+"Lost",761,560.1,1.1,242.57,1.08
+"Hibernating",130,521.2,1.6,1339.52,1.02
+"About To Sleep",306,318.9,1.0,367.92,0.66
+"New Customers",167,29.9,1.0,400.91,0.39
